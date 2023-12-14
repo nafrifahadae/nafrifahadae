@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Nathaniel Afrifah-Adae!👨‍💻</h1>
-<h4 align="center">Dedicated, detail-orientated problem solver with a firm foundation in engineering, branching into computer science and programming. Responsible team leader able to instil confidence in colleagues. Recently completed 12-week intensive bootcamp upskilling in software development, completing projects in HTML, CSS, JavaScript, Python and MySQL. Confident with database management and linking APIs to webpages. Committed to staying up to date with new frameworks and technologies within the industry. Ready to begin work with no notice period in a developer or engineer role, open to remote or hybrid working.</h4>
+<h5 align="center">Dedicated, detail-orientated problem solver with a firm foundation in engineering, branching into computer science and programming. Responsible team leader able to instil confidence in colleagues. Recently completed 12-week intensive bootcamp upskilling in software development, completing projects in HTML, CSS, JavaScript, Python and MySQL. Confident with database management and linking APIs to webpages. Committed to staying up to date with new frameworks and technologies within the industry. Ready to begin work with no notice period in a developer or engineer role, open to remote or hybrid working.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
-- 🔧 I’m currently working on **my portfolio website and a full-stack expense tracker(including frontend and backend aspects)**
+- 🔧 I’m currently working on **my portfolio website and a full-stack expense tracker (including frontend and backend aspects)**
 
-- 🧠 I’m currently learning **React, Ruby on Rails and finishing the Odin Project! Great for my web development skills.**
+- 🧠 I’m currently learning **React, Ruby on Rails and finishing the Odin Project! Great for my web development skills.** 
 
-- 🤝 I’m looking for help with **understanding AI, whether this is with an individual project or some group research!**
+- 🤝 I’m looking for help with **understanding AI, whether this is with an individual project or some group research!** 🦾
 
 - 🧑‍🔧 All of my projects are available at [(portfolio link)]
 
@@ -22,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - linkedIn link
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
