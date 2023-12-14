@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
-- 🔧 I’m currently working on [my portfolio website and a full-stack expense tracker (including frontend and backend aspects)]
+- 🔧 I’m currently working on [my portfolio website and a full-stack expense tracker, including frontend and backend aspects]
 
 - 🧠 I’m currently learning **React, Ruby on Rails and finishing the Odin Project! Great for my web development skills.**
 
