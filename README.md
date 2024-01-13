@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **understanding AI, whether this is with an individual project or some group research!** 🦾
 
-- 🧑‍🔧 All of my projects are available at [(portfolio link)]
+- 🧑‍🔧 All of my projects are available at : <a href="https://nathaniel-afrifah-adae.netlify.app">My Portfolio</a>
 
 - 💬 Ask me about **web development, sports and physical fitness!** 🏋️
 
