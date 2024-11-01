@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nathaniel Afrifah-Adae!👨🏾‍💻</h1>
-<h5 align="center">As a candidate who has transitioned from mechanical engineering to now data, I’ve carried my transferrable skills with me. I love using Python & SQL to analyse data trends. My love for football makes it easy to understand collaboration and succeeding in smaller roles as part of a bigger project. With previous experience in Concessions, I have demonstrated leadership achieving outstanding results wherever I’ve been. I am more than ready to contribute to success. 
-Looking to begin work with no notice period in an analyst or engineer role, open to remote or hybrid working.</h5>
+<h5 align="center">As a candidate who has transitioned from mechanical engineering to now data, I’ve carried my transferrable skills with me. I love using Python & SQL to analyse data trends. My love for sports makes it easy to understand collaboration and succeeding in smaller roles as part of a bigger project. With previous experience in Concessions, I have demonstrated leadership achieving outstanding results wherever I’ve been. I am more than ready to contribute to success.</h5>
+<h5>Looking to begin work with no notice period in an analyst or engineer role, open to remote or hybrid working.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
