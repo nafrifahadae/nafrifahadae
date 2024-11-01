@@ -4,7 +4,7 @@ Looking to begin work with no notice period in an analyst or engineer role, open
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
-- 🔧 I’ve just completed **my personal project analysing the 2024 USA Olympic Basketball team using SQL.** Check it out! 🏀
+- 🔧 I’ve just completed **my personal project analysing the 2024 USA Olympic Basketball team using SQL. Check it out!** 🏀
 
 - 🧠 I’m currently strengthening **my skills with data visualisation tools such as Tableau, to add colour to my findings.** 
 
