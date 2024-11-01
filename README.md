@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Nathaniel Afrifah-Adae!👨🏾‍💻</h1>
-<h5 align="center">Dedicated, detail-orientated problem solver with a firm foundation in engineering, branching into computer science and programming. Responsible team leader able to instil confidence in colleagues. Recently completed an intensive bootcamp upskilling in software development, completing projects in JavaScript, React, Python and MySQL. Confident with database management and linking APIs to webpages. Committed to staying up to date with new frameworks and technologies within the industry. Ready to begin work with no notice period in a developer or engineer role, open to remote or hybrid working.</h5>
+<h5 align="center">As a candidate who has transitioned from mechanical engineering to now data, I’ve carried my transferrable skills with me. I love using Python & SQL to analyse data trends. My love for football makes it easy to understand collaboration and succeeding in smaller roles as part of a bigger project. With previous experience in Concessions, I have demonstrated leadership achieving outstanding results wherever I’ve been. I am more than ready to contribute to success. 
+Looking to begin work with no notice period in an analyst or engineer role, open to remote or hybrid working.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
