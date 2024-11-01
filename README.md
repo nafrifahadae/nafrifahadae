@@ -16,7 +16,7 @@ Looking to begin work with no notice period in an analyst or engineer role, open
 
 - 📫 How to reach me : **nafrifahadae@gmail.com**
 
-- 📄 Want to know about my experiences? **Download my CV!** <br> <a href="CV NATHANIEL AFRIFAH-ADAE MAR 2024.pdf">CV NATHANIEL AFRIFAH-ADAE MARCH 2024.pdf</a>
+- 📄 Want to know about my experiences? **Download my CV!** <br> <a href="CV NATHANIEL AFRIFAH-ADAE NOV24.pdf">CV NATHANIEL AFRIFAH-ADAE MARCH 2024.pdf</a>
   
 
 - ⚡ Fun fact **A day on Venus (rotation on its axis) is longer than a year on Venus (orbit around the Sun). Venus rotates extremely slowly, taking about 243 Earth days to complete one rotation, while it only takes about 225 Earth days for Venus to orbit the Sun!** 🌍
