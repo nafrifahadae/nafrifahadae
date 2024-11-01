@@ -4,15 +4,15 @@ Looking to begin work with no notice period in an analyst or engineer role, open
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
-- 🔧 I’m currently working on **my portfolio website and an SQL database storing previous Ballon D'or winners (displaying frontend and backend aspects)** ⚽
+- 🔧 I’ve just completed **my personal project analysing the 2024 USA Olympic Basketball team using SQL.** Check it out! 🏀
 
-- 🧠 I’m currently learning **React, Ruby on Rails and finishing the Odin Project! Great for my web development skills.** 
+- 🧠 I’m currently strengthening **my skills with data visualisation tools such as Tableau, to add colour to my findings.** 
 
-- 🤝 I’m looking for help with **understanding AI, whether this is with an individual project or some group research!** 🦾
+- 🤝 I’m looking for help with **further my understanding with AI, whether this is with an individual project or some group research!** 🦾
 
 - 👨🏾‍🔧 All of my projects are available at : <a href="https://nathaniel-afrifah-adae.netlify.app" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about **web development, sports and physical fitness!** 🏋️
+- 💬 Ask me about **sports, fitness and faith!** 🏋️🙏
 
 - 📫 How to reach me : **nafrifahadae@gmail.com**
 
