@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nathaniel Afrifah-Adae!👨🏾‍💻</h1>
 <h5 align="center">Analytical and commercially aware professional with experience in data-driven decision-making, financial KPI monitoring and operational improvement. Practical programming experience using Python for data manipulation. Skilled in using Power BI and Excel to build intuitive dashboards that translate complex data into actionable insights. Proven track record influencing key business strategies by presenting performance metrics and market trends to senior stakeholders, supporting initiatives in marketing and fraud prevention. Strong foundation in Mechanical Engineering, bringing structured thinking, effective collaboration and deadline-focused project execution to every role. Quick to adapt to new software and tools to meet business needs.I am more than ready to contribute to success.</h5>
-<h5 align="center">Looking to begin work with no notice period in an analyst or engineer role, open to remote or hybrid working.</h5>
+<h5 align="center">Looking to begin work with no notice period in an analyst role, open to office, remote or hybrid working.</h5>
 
 
 - 🔧 I’ve just completed **my personal project predicting Hospital Readmissions using Python (Pandas & Matplotlib).** <a href="https://github.com/nafrifahadae/hospital-readmission-prediction">Check it out!</a> 🏥
