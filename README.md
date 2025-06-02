@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **nafrifahadae@gmail.com**
 
-- 📄 Want to know about my experiences? **Have a look at my CV!** <br> <a href="CV NATHANIEL AFRIFAH-ADAE NOV24.pdf">CV NATHANIEL AFRIFAH-ADAE NOV24.pdf</a>
+- 📄 Want to know about my experiences? **Have a look at my CV!** <br> <a href="CV NATHANIEL AFRIFAH-ADAE JUN25.pdf">CV NATHANIEL AFRIFAH-ADAE NOV24.pdf</a>
   
 
 - ⚡ Fun fact **A day on Venus (rotation on its axis) is longer than a year on Venus (orbit around the Sun). Venus rotates extremely slowly, taking about 243 Earth days to complete one rotation, while it only takes about 225 Earth days for Venus to orbit the Sun!** 🌍
