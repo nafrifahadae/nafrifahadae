@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Nathaniel Afrifah-Adae!👨🏾‍💻</h1>
-<h5 align="center">As a candidate who has transitioned from mechanical engineering to now data, I’ve carried my transferrable skills with me. I love using Python & SQL to analyse data trends. My love for sports makes it easy to understand collaboration and succeeding in smaller roles as part of a bigger project. With previous experience in Concessions, I have demonstrated leadership achieving outstanding results wherever I’ve been. I am more than ready to contribute to success.</h5>
+<h5 align="center">Analytical and commercially aware professional with experience in data-driven decision-making, financial KPI monitoring and operational improvement. Practical programming experience using Python for data manipulation. Skilled in using Power BI and Excel to build intuitive dashboards that translate complex data into actionable insights. Proven track record influencing key business strategies by presenting performance metrics and market trends to senior stakeholders, supporting initiatives in marketing and fraud prevention. Strong foundation in Mechanical Engineering, bringing structured thinking, effective collaboration and deadline-focused project execution to every role. Quick to adapt to new software and tools to meet business needs.I am more than ready to contribute to success.</h5>
 <h5 align="center">Looking to begin work with no notice period in an analyst or engineer role, open to remote or hybrid working.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafrifahadae&label=Profile%20views&color=0e75b6&style=flat" alt="nafrifahadae" /> </p>
 
-- 🔧 I’ve just completed **my personal project analysing the 2024 USA Olympic Basketball team using SQL.** <a href="https://github.com/nafrifahadae/olympic-basketball">Check it out!</a> 🏀
+- 🔧 I’ve just completed **my personal project predicting Hospital Readmissions using Python (Pandas & Matplotlib).** <a href="https://github.com/nafrifahadae/hospital-readmission-prediction">Check it out!</a> 🏥
 
-- 🧠 I’m currently strengthening **my skills with data visualisation tools such as Tableau, to add colour to my findings.** 
+- 🧠 I’m currently strengthening **my skills with data visualisation tools such as PowerBI, to add colour to my findings.** 
 
 - 🤝 I’m looking for help with **further my understanding with AI, whether this is with an individual project or some group research!** 🦾
 
-- 👨🏾‍🔧 All of my projects are available at : <a href="https://nathaniel-afrifah-adae.netlify.app" target="_blank">My Portfolio</a>
+- 👨🏾‍🔧 All of my projects are available at : <a href="https://github.com/nafrifahadae?tab=repositories" target="_blank">My Repositories</a>
 
 - 💬 Ask me about **sports, fitness and faith!** 🏋️🙏
 
