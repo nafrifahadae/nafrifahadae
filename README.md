@@ -3,7 +3,7 @@
 <h5 align="center">Looking to begin work with no notice period in an analyst role, open to office, remote or hybrid working.</h5>
 
 
-- 🔧 I’ve just completed **my personal project predicting Hospital Readmissions using Python (Pandas & Matplotlib).** <a href="https://github.com/nafrifahadae/hospital-readmission-prediction">Check it out!</a> 🏥
+- 🔧 I’ve just completed **my personal project predicting Hospital Readmissions using Python.** <a href="https://github.com/nafrifahadae/hospital-readmission-prediction">Check it out!</a> 🏥
 
 - 🧠 I’m currently strengthening **my skills with data visualisation tools such as PowerBI, to add colour to my findings.** 
 
